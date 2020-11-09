@@ -1,6 +1,6 @@
 id: 01EPPSHNXB04SVYWBP6Z77Z8CR
 description: マネーフォワードとクラウドの間には空白が入ります。
-expected: マネーフォワード クラウド
+expected: /マネーフォワード クラウド/i
 patterns:
   - マネーフォワードクラウド
   - MFクラウド
